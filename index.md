@@ -13,10 +13,12 @@ I've been fortunate enough to work on some really cool projects at some really c
   - Learned basics of MATLAB/Autodesk to design 3D printable files.
   - Designed and presented 3D models of chains to find the relationship between strength vs. thickness.
  
+ 
 2. Zitchen (June 2015 - September 2015)
     As a design intern, I:
   - Implemented modern/flat design principles in designing menu, letterheads, and business cards.
   - Employee of the month (August)
+
 
 3. Kiran Foundation School
     As a technology intern, I:
