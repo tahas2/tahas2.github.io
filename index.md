@@ -5,29 +5,17 @@ I really like Yaktocats. I've attached one below if you don't know what one look
 
 My name is Taha Syed and I am a freshman at the University of Illinois at Urbana Champaign. I'm currentlying pursuing a degree in Computer Science and Linguistics. Keep reading below to find out more about me!
 
-### Markdown
+### Work Experience
+I've been fortunate enough to work on some really cool projects at some really cool companies. Maybe I could work at your company one day!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Saudi Arabian Basic Industries Corporation:
+  - Learned basics of MATLAB/Autodesk to design 3D printable files.
+  - Designed and presented 3D models of chains to find the relationship between strength vs. thickness.
+  
+2. Two
+3. Three
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
