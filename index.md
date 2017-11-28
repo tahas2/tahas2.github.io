@@ -1,7 +1,7 @@
 ## Welcome to my website!
 
 This is an image of me.
-![Image of Me](https://github.com/tahas2.github.io/owl.jpg)
+![Image of Me](tahas2.github.io/me.png)
 
 My name is Taha Syed and I am a freshman at the University of Illinois at Urbana Champaign. I'm currentlying pursuing a degree in Computer Science and Linguistics. Keep reading below to find out more about me!
 
