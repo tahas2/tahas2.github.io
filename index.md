@@ -33,7 +33,7 @@ I can speak in:
 * Arabic
 * Spanish
 
-### Connect With Me!
+### Don't be a stranger!
 * [GitHub](https://github.com/tahas2)
 * [LinkedIn](https://www.linkedin.com/in/taha-syed-a09437a7/)
 * [Instagram](https://www.instagram.com/tahasyed98/) (I'm quite the iPhoneographer if I do say so myself.)
