@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-![Image of Me](https://github.com/tahas2/tahas2.github.io/blob/master/me.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 You can use the [editor on GitHub](https://github.com/tahas2/tahas2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
