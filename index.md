@@ -8,13 +8,19 @@ My name is Taha Syed and I am a freshman at the University of Illinois at Urbana
 ### Work Experience
 I've been fortunate enough to work on some really cool projects at some really cool companies. Maybe I could work at your company one day!
 
-1. Saudi Arabian Basic Industries Corporation:
+1. Saudi Arabian Basic Industries Corporation (June 2016 - September 2016)
+    As a 3D printing intern, I:
   - Learned basics of MATLAB/Autodesk to design 3D printable files.
   - Designed and presented 3D models of chains to find the relationship between strength vs. thickness.
-  
-2. Two
-3. Three
+ 
+2. Zitchen (June 2015 - September 2015)
+    As a design intern, I:
+  - Implemented modern/flat design principles in designing menu, letterheads, and business cards.
+  - Employee of the month (August)
 
+3. Kiran Foundation School
+    As a technology intern, I:
+  - Taught underprivileged kids how to use MS Office and write simple code using Scratch.
 
 
 ### Jekyll Themes
