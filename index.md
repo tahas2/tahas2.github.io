@@ -3,9 +3,7 @@
 This is an image of me.
 ![Image of Me](https://github.com/tahas2.github.io/owl.jpg)
 
-You can use the [editor on GitHub](https://github.com/tahas2/tahas2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Taha Syed and I am a freshman at the University of Illinois at Urbana Champaign. I'm currentlying pursuing a degree in Computer Science and Linguistics. Keep reading below to find out more about me!
 
 ### Markdown
 
