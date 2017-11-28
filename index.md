@@ -8,25 +8,32 @@ My name is Taha Syed and I am a freshman at the University of Illinois at Urbana
 ### Work Experience
 I've been fortunate enough to work on some really cool projects at some really cool companies. Maybe I could work at your company one day!
 
-Saudi Arabian Basic Industries Corporation (June 2016 - September 2016)
-    As a 3D printing intern, I:
+Saudi Arabian Basic Industries Corporation 3D Printing Intern (June 2016 - September 2016)
   - Learned basics of MATLAB/Autodesk to design 3D printable files.
   - Designed and presented 3D models of chains to find the relationship between strength vs. thickness.
  
-Zitchen (June 2015 - September 2015)
-    As a design intern, I:
+Zitchen Design Intern (June 2015 - September 2015)
   - Implemented modern/flat design principles in designing menu, letterheads, and business cards.
   - Employee of the month (August)
 
-Kiran Foundation School
-    As a technology intern, I:
+Kiran Foundation School Technology Intern (February 2015)
   - Taught underprivileged kids how to use MS Office and write simple code using Scratch.
 
+### Skils
+I can code in:
+* Java
+* Swift
+* Objective C
+* Python
 
-### Jekyll Themes
+### Languages
+I can speak in:
+* English
+* Urdu
+* Arabic
+* Spanish
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tahas2/tahas2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Connect With Me!
+* [GitHub](https://github.com/tahas2)
+* [LinkedIn](https://www.linkedin.com/in/taha-syed-a09437a7/)
+* [Instagram](https://www.instagram.com/tahasyed98/) (I'm quite the iPhoneographer if I do say so myself.)
